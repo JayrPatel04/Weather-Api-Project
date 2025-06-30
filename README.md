@@ -12,7 +12,7 @@
 
 ## 📸 Live Demo
 
-👉 **Check it out here:** [Live Weather App](weather-api-project-eight.vercel.app)
+👉 **Check it out here:** [Live Weather App](https://weather-api-project-eight.vercel.app)  
 
 
 
